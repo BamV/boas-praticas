@@ -1,8 +1,6 @@
 # Gama Academy :)
 ## Template Node FullJS
 
-Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
 
 Para instalar as dependências:
 `npm i`
